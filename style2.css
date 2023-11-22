@@ -1,0 +1,240 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+    background-color: black;
+}
+
+nav
+{
+    opacity: 0.9;
+    position: fixed;
+    width:  100%;
+}
+.navbar
+{
+    display: flex;
+}
+.logo1
+{
+    align-items: center;
+    margin: 2%;
+    width: 20%;
+    margin-left: 0%;
+}
+.logo2
+{
+    width: 60%;
+}
+.opciones
+{
+    display: flex;
+    align-items: center;
+}
+.opciones a
+{
+    margin-left: 5%;
+    margin-right: 10%;
+    text-decoration: none;
+    font-size: x-large;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    transition: all 0.3s ease-in;
+}
+.opciones a:hover
+{
+    font-weight: bold;
+    transform: scale3d(1.2,1.2,5);
+}
+.intro
+{
+    align-items: center;
+    text-align: center;
+    width: 60%;
+    color:  #FFF;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+}
+
+/*diviones*/
+
+.mision
+{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+
+.mision h1
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    padding: 15%;
+    padding-top: 10%;
+    padding-bottom: 0%;
+}
+.mision p
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    padding: 15%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+
+.vision
+{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+.vision h1
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    padding: 15%;
+    padding-top: 10%;
+    padding-bottom: 0%;
+}
+.vision p
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    padding: 15%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+
+/*con botones*/
+
+.historia
+{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+
+.historia h1
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    padding: 15%;
+    padding-top: 10%;
+    padding-bottom: 0%;
+}
+.historia p
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    padding: 15%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+
+.planes
+{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+.planes h1
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    padding: 15%;
+    padding-top: 10%;
+    padding-bottom: 0%;
+}
+.planes p
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    padding: 15%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+.planes ul
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    padding: 15%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+.masinfo
+{
+    background-color: black;
+    padding: 2%;
+    border-color: #FFF;
+    border-radius: 40px;
+}
+
+.masinfo a
+{
+    text-decoration: none;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    transition: all 0.3s ease-in;
+}
+.masinfo a:hover
+{
+    font-weight: bold;
+    transform: scale3d(1.2,1.2,5);
+}
+
+/*contacto*/
+
+.contacto
+{
+    display: flex;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+}
+.redes
+{
+    display: flex;
+    margin: 5%;
+    margin-left: 20%;
+    text-align: center;
+    align-items: center;
+}
+.redes img
+{
+    width: 15%;
+}
+.redes p
+{
+    margin: 4%;
+}
+
+/*tecnologia*/
+.partec1
+{
+    display: flex;
+    align-items: center;
+}
+.partec1 p
+{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    margin: 15%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    font-size: x-large;
+}
+
